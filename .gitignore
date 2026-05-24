@@ -1,0 +1,33 @@
+# Flutter
+.dart_tool/
+.flutter-plugins-dependencies
+.packages
+build/
+flutter_export_environment.sh
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Android
+android/.idea/
+android/*.iml
+android/.gradle/
+android/build/
+android/local.properties
+
+# iOS
+ios/.idea/
+ios/*.pbxuser
+ios/*.mode1v3
+ios/*.mode2v3
+ios/*.perspectivev3
+ios/Pods/
+ios/Flutter/Flutter.framework/Versions/
+
+# Supabase
+.env
+.env.local
+
+# Logs
+*.log
